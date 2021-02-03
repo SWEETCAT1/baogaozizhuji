@@ -1,0 +1,5 @@
+*.vs
+*.svn
+/mtk/ node_modules
+/mtk/ dist
+
