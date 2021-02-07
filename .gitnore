@@ -1,5 +1,6 @@
 *.vs
 *.svn
+*.idea
 /mtk/ node_modules
 /mtk/ dist
 
